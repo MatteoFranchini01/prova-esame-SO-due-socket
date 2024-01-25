@@ -1,0 +1,4 @@
+/Users/matteofranchini/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/matteofranchini/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S "/Users/matteofranchini/Library/CloudStorage/OneDrive-UniversitàdegliStudidiParma/Università/Appunti e slide/III anno/Sistemi Operativi/prova-esame-due-socket" -B "/Users/matteofranchini/Library/CloudStorage/OneDrive-UniversitàdegliStudidiParma/Università/Appunti e slide/III anno/Sistemi Operativi/prova-esame-due-socket/cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/matteofranchini/Library/CloudStorage/OneDrive-UniversitàdegliStudidiParma/Università/Appunti e slide/III anno/Sistemi Operativi/prova-esame-due-socket/cmake-build-debug
