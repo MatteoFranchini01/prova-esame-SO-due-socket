@@ -1,0 +1,6 @@
+# ninja log v5
+14	203	1706305990261923753	build.ninja	67c82042f0f011db
+1	916	1706305991187221604	CMakeFiles/prova_esame_due_socket.dir/main.c.o	b70ebb9e29ce6193
+917	1364	1706305991643095092	prova_esame_due_socket	420ccb5ed543e439
+1	447	1706308126013544481	CMakeFiles/prova_esame_due_socket.dir/main.c.o	b70ebb9e29ce6193
+452	813	1706308126376559072	prova_esame_due_socket	420ccb5ed543e439

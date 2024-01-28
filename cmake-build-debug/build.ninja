@@ -55,12 +55,6 @@ build CMakeFiles/prova_esame_due_socket.dir/main.c.o: C_COMPILER__prova_esame_du
   OBJECT_DIR = CMakeFiles/prova_esame_due_socket.dir
   OBJECT_FILE_DIR = CMakeFiles/prova_esame_due_socket.dir
 
-build CMakeFiles/prova_esame_due_socket.dir/server.c.o: C_COMPILER__prova_esame_due_socket_unscanned_Debug /Users/matteofranchini/Library/CloudStorage/OneDrive-UniversitàdegliStudidiParma/Università/Appunti$ e$ slide/III$ anno/Sistemi$ Operativi/prova-esame-due-socket/server.c || cmake_object_order_depends_target_prova_esame_due_socket
-  DEP_FILE = CMakeFiles/prova_esame_due_socket.dir/server.c.o.d
-  FLAGS = -g -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/prova_esame_due_socket.dir
-  OBJECT_FILE_DIR = CMakeFiles/prova_esame_due_socket.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target prova_esame_due_socket
@@ -69,7 +63,7 @@ build CMakeFiles/prova_esame_due_socket.dir/server.c.o: C_COMPILER__prova_esame_
 #############################################
 # Link the executable prova_esame_due_socket
 
-build prova_esame_due_socket: C_EXECUTABLE_LINKER__prova_esame_due_socket_Debug CMakeFiles/prova_esame_due_socket.dir/main.c.o CMakeFiles/prova_esame_due_socket.dir/server.c.o
+build prova_esame_due_socket: C_EXECUTABLE_LINKER__prova_esame_due_socket_Debug CMakeFiles/prova_esame_due_socket.dir/main.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/prova_esame_due_socket.dir
   POST_BUILD = :
